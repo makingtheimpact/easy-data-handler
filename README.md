@@ -43,4 +43,4 @@ Note: If the altered value does not match the type, it may use defaults. This on
 ## Future Versions Will...
 * Add new text input validation and sanitization that allows for apostrophes
 * Feature examples and templates
-* ¯\_(ツ)_/¯
+* ¯\\_(ツ)_/¯
